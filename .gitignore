@@ -1,7 +1,5 @@
-cat .gitignore
-
 /.idea
 .DS_Store
 .vscode/
-/db/*.sqlite3
+*.sqlite3
 
